@@ -1,0 +1,14 @@
+{
+  "name": "ovning",
+  "version": "1.0.0",
+  "description": "Övning med node och express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin & Niklas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
